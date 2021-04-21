@@ -1,5 +1,5 @@
 import json
-from .banyakfile import *
+from .my_func import *
 from glob import glob
 
 def startETL():
